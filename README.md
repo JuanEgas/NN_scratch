@@ -1,2 +1,2 @@
 # NN_scracth
-3-layer NN from scratch
+Description: 3-layer NN from scratch to classify images of ten letters. 
